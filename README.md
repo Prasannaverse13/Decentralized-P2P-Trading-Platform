@@ -1,6 +1,7 @@
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?logo=github)](CODE_OF_CONDUCT.md) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fatomic-swap.io&logo=atomic-swap)](https://atomic-swap.io/) [![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fatomic-swap.io%2F)](https://twitter.com/intent/tweet?text=Atomic%20Swap%20-%20A%20trustless%20p2p%20trading%20dApp%20on%20Cardano.%20https%3A//atomic-swap.io/%20%23atomicswap%20via%20%40_atomicswap)
 
-## Features
+![Screenshot (341)](https://github.com/Prasannaverse13/Decentralized-P2P-Trading-Platform/assets/116105281/d73fc49c-5636-4d16-8ed2-a1051c39301a)
+![Screenshot (342)](https://github.com/Prasannaverse13/Decentralized-P2P-Trading-Platform/assets/116105281/393a4201-1fd7-4338-960e-e90df439f07d)
+
 
 * Trustless trading using multisig transactions
 * Create trades with as any number of assets (NFTs, Tokens, and etc)
